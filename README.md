@@ -105,6 +105,6 @@ Gold layer table will be created in the database. <br>
 📝 Medium Article
 The full process and story behind this project can be read on Medium:
 
-👉 ![Building a Medallion Architecture Data Pipeline with Transjakarta Dataset](https://medium.com/@HafizIkhsan/building-a-medallion-architecture-data-pipeline-with-transjakarta-dataset-6767f56980e6)
+👉 [Building a Medallion Architecture Data Pipeline with Transjakarta Dataset](https://medium.com/@HafizIkhsan/building-a-medallion-architecture-data-pipeline-with-transjakarta-dataset-6767f56980e6)
 
 Feel free to read it and leave any feedback or suggestions 🙌
